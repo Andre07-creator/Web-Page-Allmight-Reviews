@@ -2,7 +2,7 @@
     padding-left: 93%;
     padding-top: 10px;
 }
-.efigure-page{
+.figure-page{
     width: 600px;
     height: 600px
 }
@@ -14,4 +14,10 @@ p{
 }
 .nav-link{
     font-family:'Roboto', sans-serif;
+}
+.section{
+    background-color:rgb(234, 238, 241)
+}
+.a-tags{
+    font-style: italic;
 }
