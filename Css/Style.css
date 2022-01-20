@@ -1,0 +1,33 @@
+.buttom {
+    padding-left: 93%;
+    padding-top: 10px;
+}
+
+.figure-page {
+    width: 600px;
+    height: 600px
+}
+
+.title-nav {
+    font-family: 'Roboto', sans-serif
+}
+
+p {
+    font-family: 'Montserrat', sans-serif
+}
+
+.nav-link {
+    font-family: 'Roboto', sans-serif;
+}
+
+.section {
+    background-color: rgb(234, 238, 241)
+}
+
+.a-tags {
+    box-sizing: border-box;
+}
+
+input {
+    padding-bottom: 40px;
+}
